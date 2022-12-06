@@ -8,7 +8,7 @@ const App  = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          김경일 만세!!
+          안녕하세요
         </p>
         <a
           className="App-link"
