@@ -9,7 +9,7 @@ const App  = () => {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           안녕하세요
-        </p>
+        </p> 
         <a
           className="App-link"
           href="https://reactjs.org"
