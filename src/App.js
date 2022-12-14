@@ -6,7 +6,7 @@ const App  = () => {
   return (
     <div className="App">
       <header className="App-header">
-      <input type="image" src="./kki.jpeg" className='imgSize' alt="제출버튼"/>
+      <input type="image" src="./kki.png" className='imgSize' alt="제출버튼"/>
         <p>
           반갑습니다
         </p> 
